@@ -7,9 +7,11 @@
 #Usamos a primeira variável para atribuir um nome
 NOME="bia"
 echo "Olá ${NOME}"
+
 #Alteração no valor da variável
 NOME="vivek"
 echo "Olá ${NOME}"
+
 #Coleta de um valor de entrada do usuário
 echo "Digite seu nome"
 read MEU_NOME
